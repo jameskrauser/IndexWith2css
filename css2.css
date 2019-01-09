@@ -1,0 +1,34 @@
+#Header {
+	float: left;
+	height: 250px;
+	width: 100px;
+	background-color: #F2FAD1;
+	border:10px solid #CCFF00;
+}
+
+
+
+#Body {
+	float: left;
+	border: 10px solid #FDFD02;
+	height: 250px;
+	width: 350px;
+	background-color: #F8FAD1;
+}
+
+
+
+
+
+#Footer {
+	float: left;
+	border: 10px solid #FDFD02;
+	height: 250px;
+	width: 350px;
+	background-color: #FBFAD1;
+
+}
+
+body {
+		margin: 0px 0px 0px 0px;
+}
